@@ -1,45 +1,44 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# Spanish translations for PACKAGE package.
+# Copyright (C) 2024 THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Michael Yugcha <mgyugcha@gmail.com>, 2024.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
+"Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-10-07 21:14-0500\n"
-"PO-Revision-Date: 2019-02-24 18:50+0100\n"
-"Last-Translator: Jimmy Scionti <jimmy.scionti@gmail.com>\n"
-"Language-Team: \n"
-"Language: it_IT\n"
+"PO-Revision-Date: 2024-10-07 21:07-0500\n"
+"Last-Translator: Michael Yugcha <mgyugcha@gmail.com>\n"
+"Language-Team: Spanish\n"
+"Language: es\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=ASCII\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 2.0.6\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
 #: extension.js:31
 msgid "Enable Miniview"
-msgstr "Abilita Miniview"
+msgstr "Habilitar Miniview"
 
 #: extension.js:36
 msgid "Next Window"
-msgstr "Finestra successiva"
+msgstr "Siguiente ventana"
 
 #: extension.js:40
 msgid "Previous Window"
-msgstr "Finestra precedente"
+msgstr "Ventana anterior"
 
 #: extension.js:45
 msgid "Reset Miniview"
-msgstr "Ripristina Miniview"
+msgstr "Restablecer Miniview"
 
 #: extension.js:50
 msgid "Preferences"
-msgstr "Preferenze"
+msgstr "Preferencias"
 
 #~ msgid "Mini"
 #~ msgstr "Mini"
 
 #~ msgid "Reset Opacity"
-#~ msgstr "Ripristina l'opacità"
+#~ msgstr "Restablecer opacidad"
